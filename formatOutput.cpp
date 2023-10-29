@@ -4,7 +4,7 @@
 #include <iostream>
 #include <cmath> // to use fmod() in line 25
 #include <iomanip> //to use setprecission()
-
+ 
 using namespace std;
 
 int main()
